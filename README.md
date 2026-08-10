@@ -7,6 +7,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ## 💻 Linguagens 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,python,mysql,typescript" />
 </p>
 
