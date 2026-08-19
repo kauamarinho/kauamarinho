@@ -1,12 +1,12 @@
-# Olá, eu sou o Kauã Marinho 👋
+# Kauã Marinho 
 
-## 🚀 Sobre mim
+**`Engenheiro de Software`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
+Desenvolvedor Backend com foco em Java, busco construir aplicações organizadas e reutilizáveis, aplicando código limpo e boas práticas de estruturação e automação de projetos. Valorizo código de alta qualidade, colaboração em equipe e aprendizado contínuo, com forte interesse em arquitetura de sistemas e inteligência artificial. 
 
-## 💻 Linguagens 
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,python,mysql,typescript" />
-</p>
+## Linguagens 
+
+  <img src="https://skillicons.dev/icons?i=javascript,java,cs,python,mysql,typescript"/>
 
