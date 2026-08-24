@@ -6,5 +6,5 @@ Desenvolvedor Backend com foco em Java, busco construir aplicações organizadas
 
 ## Linguagens 
 
-  <img src="https://skillicons.dev/icons?i=javascript,java,cs,python,mysql,typescript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,spring,cs,python,mysql"/>
 
