@@ -1,10 +1,14 @@
-# Kauã Marinho 
+# Kauã Marinho
 
-**`Engenheiro de Software`**
+**Backend Developer | Software Engineering Student**
 
-Desenvolvedor Backend com foco em Java, busco construir aplicações organizadas e reutilizáveis, aplicando código limpo e boas práticas de estruturação e automação de projetos. Valorizo código de alta qualidade, colaboração em equipe e aprendizado contínuo, com forte interesse em arquitetura de sistemas e inteligência artificial. 
+Backend Developer focused on Java, building organized and reusable applications through Clean Code and best practices for project structure and automation. I value high-quality code, teamwork, and continuous learning, with a strong interest in systems architecture and artificial intelligence.
 
-## Linguagens 
+## Languages and Technologies
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,cs,python,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,cs,python,mysql" />
 
+## Contact
+
+- 📧 Email: kauamarinhocontato@gmail.com
+- 💼 LinkedIn: [Kauã Marinho](https://www.linkedin.com/in/kau%C3%A3-marinho-7a6790383/)
